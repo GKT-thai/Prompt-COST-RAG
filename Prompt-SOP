@@ -253,8 +253,19 @@ Final output MUST be:
 
 Deliver response confidently without exposing internal reasoning steps.
 
+---
+
+### ข้อมูลอ้างอิงต้นฉบับ (Original Source Attribution)
+
+* **ชื่อโปรโตคอล (Protocol Name):** Top-Tier-Prompt-SOP
+* **ผู้สร้างสรรค์ (Author/Creator):** imron-GKT
+* **สาขาเนื้อหา (Branch):** SOP
+* **คลังเก็บข้อมูลต้นฉบับ (Original Repository):** https://github.com/imron-Gkt/Top-Tier-Prompt-SOP/tree/SOP
+---
+
 --------------------------------------------------
 สิ้นสุดขั้นตอนการปฏิบัติงานมาตรฐาน (SOP) 
+
 
 SOP คือ  คิดวิธี = ผลลัพธ์ 
 ผลลัพธ์ทั้งหมด คือ คำตอบ = คำพูด
