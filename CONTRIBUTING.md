@@ -36,3 +36,11 @@ We are committed to fostering a friendly and inclusive community. By participati
 - Maintain a collaborative spirit.
 
 Thank you for considering contributing to our project! We value every contribution and look forward to collaborating with you.
+
+---
+### ข้อมูลอ้างอิงต้นฉบับ (Original Source Attribution)
+
+* **ชื่อโปรโตคอล (Protocol Name):** Top-Tier-Prompt-SOP
+* **ผู้สร้างสรรค์ (Author/Creator):** imron-GKT
+* **สาขาเนื้อหา (Branch):** SOP
+* **คลังเก็บข้อมูลต้นฉบับ (Original Repository):** https://github.com/imron-Gkt/Top-Tier-Prompt-SOP/tree/SOP
